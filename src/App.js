@@ -4,6 +4,7 @@ import Particles from "./Particles";
 import Header from "./screens/header/header";
 import AboutMe from "./screens/aboutMe/AboutMe";
 import Technologies from "./screens/technologies/Technologies";
+import ContactMe from "./screens/contacMe/contactMe";
 
 
 
@@ -15,6 +16,7 @@ function App() {
         <Particles/>
         <AboutMe/>
         <Technologies/>
+        <ContactMe/>
     </div>
   );
 }

@@ -51,5 +51,9 @@ export const techs = [
         name: 'Github',
         iconName: 'github'
     },
+    {
+        name: 'Git',
+        iconName: 'git'
+    },
 
 ]

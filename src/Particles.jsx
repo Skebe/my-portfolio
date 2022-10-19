@@ -49,6 +49,7 @@ export default class Particles extends React.Component {
 
         const draw = () => {
             ctx.fillStyle = "#22262a";
+            //ctx.fillStyle = "#0a64be";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
 
             // Lets draw particles from the array now
