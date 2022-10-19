@@ -9,6 +9,7 @@ function Header() {
             <Typed
                 strings={[
                     " ",
+                    "Etudiant en Informatique parcours MIAGE",
                     "Data Analyst",
                     "Développeur full-stack",
                     "Développeur front-end",
