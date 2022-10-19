@@ -1,5 +1,9 @@
 export const techs = [
     {
+        name: 'Data analyst',
+        iconName: 'database'
+    },
+    {
         name: 'React',
         iconName: 'react'
     },
@@ -36,16 +40,20 @@ export const techs = [
         iconName: 'html5'
     },
     {
-        name: 'Mongo DB',
-        iconName: 'mongodb'
-    },
-    {
         name: 'Bootstrap',
         iconName: 'bootstrap'
     },
     {
+        name: 'Mongo DB',
+        iconName: 'mongodb'
+    },
+    {
         name: 'SQL lite',
         iconName: 'sqllite'
+    },
+    {
+        name: 'My SQL',
+        iconName: 'mysql'
     },
     {
         name: 'Github',
@@ -55,5 +63,13 @@ export const techs = [
         name: 'Git',
         iconName: 'git'
     },
+    {
+        name: 'Wordpress',
+        iconName: 'wordpress'
+    },
+    {
+        name: 'JQuery',
+        iconName: 'jquery'
+    }
 
 ]

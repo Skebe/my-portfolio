@@ -7,7 +7,7 @@ function Technologies() {
     return (
         <div className="technologies_container" id="technologies">
             <div>
-                <h1 style={{ textAlign: 'center', textDecoration: 'uppercase' }}>Les technologies que j'utilise</h1>
+                <h1 style={{ textAlign: 'center', textDecoration: 'uppercase' }}>QUELQUES TECHNOLOGIES QUE J'UTILISE</h1>
             </div>
             <div className="tech_cards_container">
                 {techs.map((e, index) => {

@@ -13,7 +13,7 @@ function ContactMe() {
         <div className="contactMe_container" id="contact">
             <div className="contactMe_data_links">
                 <div>
-                    <p>Quelque part, FR</p>
+                    <p>Etudiant en Informatique</p>
                     <p>Serigne kebe</p>
                     <p><a href="mailto:kebeserigne099@gmail.com">kebeserigne099@gmail.com</a></p>
                 </div>
