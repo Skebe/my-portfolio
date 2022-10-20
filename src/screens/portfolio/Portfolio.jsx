@@ -7,7 +7,7 @@ import Card from "react-bootstrap/Card";
 import Image from "react-bootstrap/Image";
 import Modal from "react-bootstrap/Modal";
 import Button from "react-bootstrap/Button";
-
+import {SiGithub} from "@react-icons/all-files/si/SiGithub";
 
 
 function Portfolio() {
@@ -67,7 +67,7 @@ function Portfolio() {
     return (
         <div className="portfolio_main_container" id="portfolio">
             <h1>PORTFOLIO</h1>
-            <p>Voici ma page Github <a href="https://github.com/Skebe/" target="_blank" rel="noreferrer">https://github.com/Skebe/</a></p>
+            <p>Voici ma page Github&nbsp;<SiGithub/>&nbsp;<a href="https://github.com/Skebe/" target="_blank" rel="noreferrer">https://github.com/Skebe/</a></p>
             <Container fluid="lg" style={{ padding: '2rem' }}>
                 <Row>
                     {mapped}
