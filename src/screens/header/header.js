@@ -2,6 +2,7 @@ import React from "react";
 import "./header.css"
 import Typed from "react-typed";
 
+
 function Header() {
     return (
         <div className="main-info">
